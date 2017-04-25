@@ -19,6 +19,10 @@ h1, h2 {
     color: #333;
 }
 
+a {
+    color: #666;
+}
+
 header,
 main,
 footer {
